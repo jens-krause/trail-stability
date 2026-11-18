@@ -1,0 +1,22 @@
+# build output
+/build/
+build_cmake.log
+build_make.log
+install.log
+
+# macOS / editors
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+
+# local test material (footage, renders, analysis files)
+*.mov
+*.MOV
+*.mp4
+*.tstab
+*.npz
